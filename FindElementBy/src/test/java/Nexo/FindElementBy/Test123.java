@@ -16,6 +16,7 @@ public class SourcingLogin implements SourcingInterface {
 	private String url;
 	String username;
 	String password;
+String raol;
 
 	public SourcingLogin(String url) {
 		this.url = url;
